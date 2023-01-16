@@ -1,0 +1,19 @@
+div {
+    background: indigo;
+}
+
+h1 {
+    color: rgb(0, 0, 255);
+}
+
+h2 {
+    color: skyblue;
+}
+
+h3 {
+    color: #970f4f;
+}
+
+h4 {
+    color: hsl(2, 20%, 50%);
+}
